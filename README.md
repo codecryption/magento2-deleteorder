@@ -3,7 +3,7 @@
 Codecryption Delete Orders extension for Magento 2 enables the store owner to remove orders effortlessly from the Magento admin panel. This extension is useful for cleaning up test orders or other unwanted orders, maintaining a tidy order management system
 
 
-## Benefits of Codecryption's Magento 2 Defer Parsing of JavaScript
+## Benefits of Codecryption's Magento 2 Delete order Extension
 
 ● Single or Bulk Deletion: Delete individual orders or multiple orders at once..
 
